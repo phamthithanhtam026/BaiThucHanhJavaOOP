@@ -28,6 +28,7 @@ public class App40 {
             default:
             System.out.println("Nhap du lieu ngay sai ");
         }
+        scanner.close();
     }
     
 }

@@ -15,5 +15,6 @@ public class App35 {
     else{
         System.out.println("Min cua hai so "+a+"va"+b+"la: "+b);
     }
+    scanner.close();
     }
 }

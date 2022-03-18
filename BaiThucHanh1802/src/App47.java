@@ -9,5 +9,6 @@ public class App47 {
             Sum += number;
         } while (Sum >= 100);
         System.out.println("Tong cac so nguyen vua nhap la: "+Sum);
+        scanner.close();
     } 
 }

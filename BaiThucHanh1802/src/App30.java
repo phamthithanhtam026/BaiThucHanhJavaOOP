@@ -12,4 +12,5 @@ public class App30 {
         Sum += m;
     }
     System.out.println("Tổng các chữ số là = "+Sum);
+    scanner.close();
 }
