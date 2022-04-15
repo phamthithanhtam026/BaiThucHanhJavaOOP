@@ -23,6 +23,6 @@ public class HinhTron {
         ht.NhapBanKinh();
         ht.InBanKinh();
         ht.TinhChuVi();
-        ht.TinhDienTich();
+        ht.TinhDienTich(); 
     }
 }
